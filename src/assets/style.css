@@ -1,0 +1,128 @@
+.body{
+    background-color: rgba(185, 184, 184, 0.144);
+   
+}
+.header{
+    background-color: #343A40;
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav .nav-link{
+    color: #fff;
+}
+.navbar .navbar-brand{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.navbar .navbar-brand:hover{
+    color: lightgray;
+    text-decoration: underline;
+}
+.navbar-nav a:hover{
+    color: lightgray;
+}
+.dropdown .dropdown-menu a:hover{
+    color: rgb(173, 22, 22);
+}
+.menuTitle{
+    color: #682F1C;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.menuResim img{
+    width: 220px;
+    height: 220px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.menuResim{ 
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.col-md-3{
+    text-align: center;
+}
+.menuResim:hover{
+    background-color: lightgray;
+}
+.price{
+    font-weight: bold;
+    color: rgb(177, 16, 16);
+}
+.icon{
+    margin-left: 300px;
+    cursor: pointer;
+}
+.icon .box{
+    position: absolute;
+    width: 15px;
+    text-align: center;
+    margin-top: 9px;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.icon img{
+    width: 50px;
+    height: 40px;
+}
+.col-md-4 .card{
+    border-radius: 20px;
+    border: 2px solid rgb(235, 0, 0);
+    box-shadow: 2px 2px 10px 2px rgb(155, 155, 4);
+} 
+.menuName{
+   margin-top: 10px;
+   margin-left: 10px;
+   font-weight: bold;
+   font-size: 20px;
+}    
+.menuPrice{
+    margin-top: 10px;
+   margin-left: 10px;
+   font-weight: bold;
+   font-size: 20px;
+   color: rgb(221, 0, 0);
+}
+.menuSepet{
+    margin-right: 5px;
+}
+.col-md-8 .selectOption{
+    border-radius: 10px;
+    background-color: rgba(224, 224, 224, 0.247);
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 10px 2px rgb(155, 155, 4);
+}
+.col-md-8 select{
+    margin-bottom: 20px;
+}
+.col-md-8 select option{
+    font-size: 16px;
+}
+.col-md-8 div h6{
+    font-weight: bold;
+    font-size: 19px;
+    background-color: rgba(224, 224, 224, 0.247);
+    margin-bottom: 10px;
+}
+.checkBox{
+    display: flex;
+    margin-left: 10px;
+}
+.checkBox .form-check-input{
+    background-color: rgba(49, 49, 49, 0.473);
+}
+.checkBox .form-check{
+    padding: 20px;
+    font-weight: bold;
+}
+.sepetim{
+    color: rgb(2, 54, 56);
+    font-weight: bold;
+    font-size: 30px;
+}

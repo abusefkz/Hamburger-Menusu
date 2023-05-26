@@ -1,0 +1,84 @@
+{
+  "siparis": [
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Whopper Menu",
+      "price": "125.00 TL",
+      "url": "./src/assets.menuler.png"
+    },
+    {
+      "id": 2,
+      "name": "Bk Steakhouse Burger",
+      "price": "105.00 TL",
+      "url": "https://www.burgerking.com.tr/cmsfiles/categories/urunler/burgerler-1.png?v=249"
+    },
+    {
+      "id": 3,
+      "name": "Double King Chicken",
+      "price": "80.00 TL",
+      "url": "https://www.burgerking.com.tr/cmsfiles/products/double-king-chicken.png?v=249"
+    },
+    {
+      "id": 4,
+      "name": "Texas Smokehouse Burger",
+      "price": "110.00 TL",
+      "url": "https://www.burgerking.com.tr/cmsfiles/products/texas-smokehouse-burger-1.png?v=249"
+    }
+  ],
+  "Sos": [
+    {
+      "id": 1,
+      "name": "Ketçap"
+    },
+    {
+      "id": 2,
+      "name": "Mayonez"
+    },
+    {
+      "id": 3,
+      "name": "Sarımsaklı Mayonez"
+    },
+    {
+      "id": 4,
+      "name": "Ranch Sos"
+    }
+  ],
+  "Patates": [
+    {
+      "id": 1,
+      "name": "Patates Kızartması(Orta)"
+    },
+    {
+      "id": 2,
+      "name": "Patates Kızartması(Büyük)"
+    },
+    {
+      "id": 3,
+      "name": "Tırtıklı Patates"
+    }
+  ],
+  "icecek": [
+    {
+      "id": 1,
+      "name": "Coco Cola(33 ml.)"
+    },
+    {
+      "id": 2,
+      "name": "Pepsi(33 ml.)"
+    },
+    {
+      "id": 3,
+      "name": "Fanta(33 ml.)"
+    },
+    {
+      "id": 4,
+      "name": "Fuse Tea Şeftali(33 ml.)"
+    },
+    {
+      "id": 5,
+      "name": "Fuse Tea Limon(33 ml.)"
+    }
+  ]
+}
